@@ -2,4 +2,69 @@
 <Bucket
    type = "1"
    version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "MapModule/ContainerViewController/ContainerViewController.m"
+            timestampString = "506636843.817551"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "27"
+            endingLineNumber = "27"
+            landmarkName = "-viewDidLoad"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__38-[ContainerViewController viewDidLoad]_block_invoke"
+                  moduleName = "MapModule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mihaela/Downloads/iosDevCoursePractice/MapModule/MapModule/ContainerViewController/ContainerViewController.m"
+                  timestampString = "506635265.498068"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "1185">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__copy_helper_block_"
+                  moduleName = "MapModule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mihaela/Downloads/iosDevCoursePractice/MapModule/MapModule/ContainerViewController/ContainerViewController.m"
+                  timestampString = "506635265.50557"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "51">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "__destroy_helper_block_"
+                  moduleName = "MapModule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mihaela/Downloads/iosDevCoursePractice/MapModule/MapModule/ContainerViewController/ContainerViewController.m"
+                  timestampString = "506635265.509125"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "39">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
 </Bucket>
